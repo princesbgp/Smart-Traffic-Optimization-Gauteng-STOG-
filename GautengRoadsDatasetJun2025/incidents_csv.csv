@@ -1,0 +1,121 @@
+incident_id,timestamp,type,severity,lat,lon,affected_segment_id,description,source
+INC_00000,2025-09-16T09:38:00Z,accident,1,-25.33948,28.238127,R21_000590,debris on roadway,synthetic_seeded
+INC_00001,2025-09-14T09:38:00Z,hazard,1,-25.689616,28.375333,N12_000315,debris on roadway,synthetic_seeded
+INC_00002,2025-09-16T03:38:00Z,hazard,3,-25.354174,27.734382,N3_000240,debris on roadway,synthetic_seeded
+INC_00003,2025-09-17T04:38:00Z,accident,3,-26.246459,27.983434,N1_000066,lane closure due to maintenance,synthetic_seeded
+INC_00004,2025-09-16T02:38:00Z,hazard,5,-26.211359,27.79348,R511_001025,multi-vehicle collision,synthetic_seeded
+INC_00005,2025-09-16T01:38:00Z,roadwork,2,-26.027222,27.613157,R511_001071,debris on roadway,synthetic_seeded
+INC_00006,2025-09-16T07:38:00Z,accident,2,-26.420344,27.998861,R55_001084,debris on roadway,synthetic_seeded
+INC_00007,2025-09-17T05:38:00Z,closure,5,-25.722836,27.528768,M1_000839,debris on roadway,synthetic_seeded
+INC_00008,2025-09-15T01:38:00Z,hazard,4,-25.858356,27.518134,R55_001147,lane closure due to maintenance,synthetic_seeded
+INC_00009,2025-09-15T15:38:00Z,accident,3,-25.711529,28.319789,R24_000614,debris on roadway,synthetic_seeded
+INC_00010,2025-09-14T14:38:00Z,roadwork,1,-26.066843,28.31266,R511_001065,debris on roadway,synthetic_seeded
+INC_00011,2025-09-15T03:38:00Z,closure,1,-26.348353,28.153063,M1_000825,debris on roadway,synthetic_seeded
+INC_00012,2025-09-16T12:38:00Z,closure,1,-26.200626,28.008111,R24_000684,stalled vehicle,synthetic_seeded
+INC_00013,2025-09-16T07:38:00Z,hazard,2,-26.286565,28.054942,R24_000624,multi-vehicle collision,synthetic_seeded
+INC_00014,2025-09-14T16:38:00Z,hazard,1,-25.360062,28.052092,N3_000191,debris on roadway,synthetic_seeded
+INC_00015,2025-09-14T06:38:00Z,hazard,2,-25.525269,28.379448,R21_000481,debris on roadway,synthetic_seeded
+INC_00016,2025-09-14T17:38:00Z,hazard,2,-25.576287,27.624571,N12_000249,debris on roadway,synthetic_seeded
+INC_00017,2025-09-15T14:38:00Z,roadwork,2,-26.544644,28.086561,R21_000538,stalled vehicle,synthetic_seeded
+INC_00018,2025-09-16T16:38:00Z,accident,1,-25.712087,28.317098,R24_000614,multi-vehicle collision,synthetic_seeded
+INC_00019,2025-09-16T00:38:00Z,accident,4,-26.594885,28.290724,R21_000548,lane closure due to maintenance,synthetic_seeded
+INC_00020,2025-09-17T00:38:00Z,hazard,2,-26.026208,27.613796,R511_001071,lane closure due to maintenance,synthetic_seeded
+INC_00021,2025-09-16T23:38:00Z,accident,2,-26.254127,27.499065,N3_000199,debris on roadway,synthetic_seeded
+INC_00022,2025-09-17T05:38:00Z,hazard,2,-25.356022,27.732976,N3_000240,stalled vehicle,synthetic_seeded
+INC_00023,2025-09-15T13:38:00Z,accident,1,-26.253308,27.916561,R24_000637,stalled vehicle,synthetic_seeded
+INC_00024,2025-09-15T19:38:00Z,hazard,2,-26.542846,28.086655,R21_000538,lane closure due to maintenance,synthetic_seeded
+INC_00025,2025-09-17T05:38:00Z,hazard,2,-26.478509,27.666775,N1_000082,stalled vehicle,synthetic_seeded
+INC_00026,2025-09-14T06:38:00Z,roadwork,2,-25.857102,27.520678,R55_001147,lane closure due to maintenance,synthetic_seeded
+INC_00027,2025-09-16T06:38:00Z,closure,1,-26.042995,28.136325,N3_000190,stalled vehicle,synthetic_seeded
+INC_00028,2025-09-16T18:38:00Z,roadwork,2,-25.723331,27.528031,M1_000839,lane closure due to maintenance,synthetic_seeded
+INC_00029,2025-09-15T12:38:00Z,accident,2,-25.47862,27.450362,N3_000160,lane closure due to maintenance,synthetic_seeded
+INC_00030,2025-09-15T13:38:00Z,closure,3,-26.210526,27.749986,N14_000456,lane closure due to maintenance,synthetic_seeded
+INC_00031,2025-09-16T18:38:00Z,accident,2,-26.011659,28.267188,R24_000665,stalled vehicle,synthetic_seeded
+INC_00032,2025-09-15T06:38:00Z,roadwork,5,-25.332222,27.872762,N3_000229,lane closure due to maintenance,synthetic_seeded
+INC_00033,2025-09-16T04:38:00Z,accident,1,-26.198645,28.006809,R24_000684,debris on roadway,synthetic_seeded
+INC_00034,2025-09-15T21:38:00Z,roadwork,5,-25.331985,27.872179,N3_000229,debris on roadway,synthetic_seeded
+INC_00035,2025-09-15T08:38:00Z,accident,5,-25.344043,28.169216,N12_000284,lane closure due to maintenance,synthetic_seeded
+INC_00036,2025-09-15T20:38:00Z,accident,2,-25.792315,27.989015,R21_000569,stalled vehicle,synthetic_seeded
+INC_00037,2025-09-16T01:38:00Z,accident,2,-26.592895,28.290859,R21_000548,multi-vehicle collision,synthetic_seeded
+INC_00038,2025-09-15T16:38:00Z,closure,1,-25.3613,28.053455,N3_000191,debris on roadway,synthetic_seeded
+INC_00039,2025-09-15T22:38:00Z,hazard,5,-25.978805,27.557794,N12_000348,stalled vehicle,synthetic_seeded
+INC_00040,2025-09-15T19:38:00Z,roadwork,2,-25.331435,27.871058,N3_000229,multi-vehicle collision,synthetic_seeded
+INC_00041,2025-09-16T09:38:00Z,accident,4,-26.591004,28.293131,R21_000548,debris on roadway,synthetic_seeded
+INC_00042,2025-09-17T03:38:00Z,roadwork,4,-25.808201,27.913122,N12_000336,debris on roadway,synthetic_seeded
+INC_00043,2025-09-15T05:38:00Z,accident,1,-26.041467,28.137713,N3_000190,stalled vehicle,synthetic_seeded
+INC_00044,2025-09-16T02:38:00Z,hazard,2,-25.360672,28.051895,N3_000191,stalled vehicle,synthetic_seeded
+INC_00045,2025-09-14T16:38:00Z,accident,5,-26.200919,28.009056,R24_000684,debris on roadway,synthetic_seeded
+INC_00046,2025-09-15T04:38:00Z,hazard,4,-25.344993,28.170003,N12_000284,lane closure due to maintenance,synthetic_seeded
+INC_00047,2025-09-15T06:38:00Z,accident,4,-25.381924,28.170277,R511_001007,stalled vehicle,synthetic_seeded
+INC_00048,2025-09-14T19:38:00Z,hazard,2,-25.927337,28.105511,R511_001018,multi-vehicle collision,synthetic_seeded
+INC_00049,2025-09-15T10:38:00Z,accident,5,-25.481578,27.450683,N3_000160,stalled vehicle,synthetic_seeded
+INC_00050,2025-09-14T10:38:00Z,hazard,4,-25.79349,27.992776,R21_000569,multi-vehicle collision,synthetic_seeded
+INC_00051,2025-09-14T09:38:00Z,hazard,4,-25.333993,27.874645,N3_000229,stalled vehicle,synthetic_seeded
+INC_00052,2025-09-14T07:38:00Z,hazard,1,-25.574194,27.623802,N12_000249,lane closure due to maintenance,synthetic_seeded
+INC_00053,2025-09-15T07:38:00Z,roadwork,5,-26.478508,27.665348,N1_000082,stalled vehicle,synthetic_seeded
+INC_00054,2025-09-16T10:38:00Z,accident,2,-25.354687,27.732906,N3_000240,lane closure due to maintenance,synthetic_seeded
+INC_00055,2025-09-17T00:38:00Z,hazard,4,-26.281887,27.607413,N12_000322,stalled vehicle,synthetic_seeded
+INC_00056,2025-09-16T03:38:00Z,accident,5,-26.480003,27.664305,N1_000082,stalled vehicle,synthetic_seeded
+INC_00057,2025-09-15T03:38:00Z,hazard,2,-26.210768,27.748497,N14_000456,lane closure due to maintenance,synthetic_seeded
+INC_00058,2025-09-16T23:38:00Z,hazard,3,-26.253714,27.914344,R24_000637,multi-vehicle collision,synthetic_seeded
+INC_00059,2025-09-15T14:38:00Z,hazard,1,-26.307588,27.744581,N12_000332,stalled vehicle,synthetic_seeded
+INC_00060,2025-09-15T00:38:00Z,roadwork,1,-25.491681,28.336291,N14_000436,lane closure due to maintenance,synthetic_seeded
+INC_00061,2025-09-15T03:38:00Z,hazard,5,-25.722828,27.528858,M1_000839,lane closure due to maintenance,synthetic_seeded
+INC_00062,2025-09-17T02:38:00Z,roadwork,4,-25.890765,28.299928,R24_000642,multi-vehicle collision,synthetic_seeded
+INC_00063,2025-09-16T22:38:00Z,accident,3,-26.269104,27.689821,M2_000917,debris on roadway,synthetic_seeded
+INC_00064,2025-09-15T20:38:00Z,hazard,5,-26.043502,28.138947,N3_000190,stalled vehicle,synthetic_seeded
+INC_00065,2025-09-14T09:38:00Z,hazard,4,-25.577555,27.625344,N12_000249,debris on roadway,synthetic_seeded
+INC_00066,2025-09-17T01:38:00Z,accident,3,-26.330995,28.366922,R21_000549,debris on roadway,synthetic_seeded
+INC_00067,2025-09-14T06:38:00Z,accident,3,-25.981269,27.557455,N12_000348,debris on roadway,synthetic_seeded
+INC_00068,2025-09-16T09:38:00Z,closure,1,-25.337899,28.237605,R21_000590,stalled vehicle,synthetic_seeded
+INC_00069,2025-09-14T19:38:00Z,roadwork,1,-26.245376,27.984248,N1_000066,debris on roadway,synthetic_seeded
+INC_00070,2025-09-17T06:38:00Z,accident,1,-25.981647,27.558799,N12_000348,stalled vehicle,synthetic_seeded
+INC_00071,2025-09-16T22:38:00Z,hazard,2,-26.25554,27.915148,R24_000637,lane closure due to maintenance,synthetic_seeded
+INC_00072,2025-09-15T07:38:00Z,roadwork,5,-25.712958,28.319261,R24_000614,multi-vehicle collision,synthetic_seeded
+INC_00073,2025-09-14T07:38:00Z,closure,5,-25.341127,28.237773,R21_000590,lane closure due to maintenance,synthetic_seeded
+INC_00074,2025-09-14T22:38:00Z,accident,3,-25.353801,27.733143,N3_000240,multi-vehicle collision,synthetic_seeded
+INC_00075,2025-09-15T18:38:00Z,roadwork,5,-26.457254,27.919987,N1_000050,debris on roadway,synthetic_seeded
+INC_00076,2025-09-16T10:38:00Z,accident,3,-26.481396,28.177463,R511_001061,debris on roadway,synthetic_seeded
+INC_00077,2025-09-16T13:38:00Z,accident,1,-25.445497,27.591468,N14_000409,stalled vehicle,synthetic_seeded
+INC_00078,2025-09-16T05:38:00Z,roadwork,5,-25.882963,28.11116,R55_001155,stalled vehicle,synthetic_seeded
+INC_00079,2025-09-17T03:38:00Z,accident,4,-25.822201,28.572481,R511_001034,stalled vehicle,synthetic_seeded
+INC_00080,2025-09-14T22:38:00Z,roadwork,1,-26.269257,27.687447,M2_000917,stalled vehicle,synthetic_seeded
+INC_00081,2025-09-16T15:38:00Z,hazard,3,-26.170589,27.508383,R55_001160,multi-vehicle collision,synthetic_seeded
+INC_00082,2025-09-14T15:38:00Z,closure,4,-26.210581,27.749228,N14_000456,debris on roadway,synthetic_seeded
+INC_00083,2025-09-16T22:38:00Z,accident,5,-26.255013,27.915998,R24_000637,debris on roadway,synthetic_seeded
+INC_00084,2025-09-16T03:38:00Z,roadwork,1,-25.535766,28.352322,R55_001093,debris on roadway,synthetic_seeded
+INC_00085,2025-09-16T10:38:00Z,closure,2,-25.529022,28.381072,R21_000481,multi-vehicle collision,synthetic_seeded
+INC_00086,2025-09-14T20:38:00Z,accident,1,-25.725277,27.529633,M1_000839,lane closure due to maintenance,synthetic_seeded
+INC_00087,2025-09-15T03:38:00Z,hazard,4,-26.213732,27.748935,N14_000456,debris on roadway,synthetic_seeded
+INC_00088,2025-09-14T17:38:00Z,roadwork,2,-26.040582,28.138656,N3_000190,debris on roadway,synthetic_seeded
+INC_00089,2025-09-14T19:38:00Z,hazard,2,-26.591684,28.294184,R21_000548,multi-vehicle collision,synthetic_seeded
+INC_00090,2025-09-17T06:38:00Z,closure,4,-25.34462,28.169168,N12_000284,multi-vehicle collision,synthetic_seeded
+INC_00091,2025-09-15T19:38:00Z,hazard,2,-25.778542,27.574701,R21_000582,lane closure due to maintenance,synthetic_seeded
+INC_00092,2025-09-15T22:38:00Z,hazard,4,-26.210416,27.749772,N14_000456,lane closure due to maintenance,synthetic_seeded
+INC_00093,2025-09-15T10:38:00Z,hazard,2,-25.794532,27.988855,R21_000569,multi-vehicle collision,synthetic_seeded
+INC_00094,2025-09-17T03:38:00Z,hazard,5,-26.012561,28.266305,R24_000665,stalled vehicle,synthetic_seeded
+INC_00095,2025-09-14T22:38:00Z,accident,5,-25.614169,27.454814,R21_000485,debris on roadway,synthetic_seeded
+INC_00096,2025-09-14T13:38:00Z,hazard,2,-26.422604,27.99668,R55_001084,multi-vehicle collision,synthetic_seeded
+INC_00097,2025-09-14T11:38:00Z,accident,2,-26.47856,27.667021,N1_000082,multi-vehicle collision,synthetic_seeded
+INC_00098,2025-09-15T06:38:00Z,accident,5,-26.196263,28.007525,N14_000431,stalled vehicle,synthetic_seeded
+INC_00099,2025-09-16T13:38:00Z,roadwork,4,-25.793772,27.989741,R21_000569,lane closure due to maintenance,synthetic_seeded
+INC_00100,2025-09-15T20:38:00Z,closure,4,-25.535247,28.353522,R55_001093,lane closure due to maintenance,synthetic_seeded
+INC_00101,2025-09-16T17:38:00Z,hazard,3,-26.422765,27.997839,R55_001084,lane closure due to maintenance,synthetic_seeded
+INC_00102,2025-09-16T12:38:00Z,roadwork,1,-26.1973,28.008813,N14_000431,stalled vehicle,synthetic_seeded
+INC_00103,2025-09-16T03:38:00Z,accident,2,-25.380756,28.167462,R511_001007,debris on roadway,synthetic_seeded
+INC_00104,2025-09-14T16:38:00Z,hazard,5,-26.333709,28.3639,R21_000549,lane closure due to maintenance,synthetic_seeded
+INC_00105,2025-09-16T07:38:00Z,roadwork,5,-26.307446,27.744565,N12_000332,stalled vehicle,synthetic_seeded
+INC_00106,2025-09-17T00:38:00Z,accident,3,-26.325956,28.577438,M1_000832,stalled vehicle,synthetic_seeded
+INC_00107,2025-09-15T04:38:00Z,roadwork,4,-26.240095,28.560707,N3_000136,multi-vehicle collision,synthetic_seeded
+INC_00108,2025-09-15T19:38:00Z,roadwork,2,-25.338225,28.235864,R21_000590,stalled vehicle,synthetic_seeded
+INC_00109,2025-09-14T11:38:00Z,closure,5,-26.268328,27.688638,M2_000917,stalled vehicle,synthetic_seeded
+INC_00110,2025-09-15T05:38:00Z,hazard,1,-26.594366,28.290698,R21_000548,stalled vehicle,synthetic_seeded
+INC_00111,2025-09-16T17:38:00Z,hazard,5,-26.252751,27.498107,N3_000199,debris on roadway,synthetic_seeded
+INC_00112,2025-09-16T00:38:00Z,accident,4,-25.80274,27.789968,R511_000985,stalled vehicle,synthetic_seeded
+INC_00113,2025-09-16T19:38:00Z,closure,5,-26.011638,28.266542,R24_000665,multi-vehicle collision,synthetic_seeded
+INC_00114,2025-09-17T02:38:00Z,closure,1,-25.712668,28.320634,R24_000614,multi-vehicle collision,synthetic_seeded
+INC_00115,2025-09-15T02:38:00Z,roadwork,1,-26.212706,27.74753,N14_000456,multi-vehicle collision,synthetic_seeded
+INC_00116,2025-09-16T23:38:00Z,hazard,1,-25.61517,28.422556,R24_000640,multi-vehicle collision,synthetic_seeded
+INC_00117,2025-09-16T04:38:00Z,accident,5,-25.48937,28.337601,N14_000436,lane closure due to maintenance,synthetic_seeded
+INC_00118,2025-09-16T07:38:00Z,closure,2,-25.479565,27.450162,N3_000160,stalled vehicle,synthetic_seeded
+INC_00119,2025-09-16T02:38:00Z,closure,3,-25.880608,28.110092,R55_001155,debris on roadway,synthetic_seeded
